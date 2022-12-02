@@ -1,0 +1,22 @@
+#header {
+    background-color: #6f42c1 !important;
+}
+
+#user-tools {
+    color: white !important;
+}
+caption>a.section {
+    color: white !important;
+}
+#branding>h1>a {
+    color: white !important;
+}
+
+#results table thead{
+    background-color: #6f42c1 !important;
+}
+
+caption {
+    background-color: #6f42c1 !important;
+}
+.breadcrumbs { background-color: black!important;}
